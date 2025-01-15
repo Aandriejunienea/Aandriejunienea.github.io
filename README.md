@@ -2,6 +2,20 @@
 
 [![Project Logo or Banner]](link-to-image)
 
+[About me](#About-me)  
+[My projects](#My-projects)  
+[My blog](#My-blog)
+
+<br><br><br>
+# About me
+
+some description
+
+<br><br><br>
+# My projects
+
+<br><br><br>
+
 > Accelerate your testing with our robust and scalable test automation framework, built for [Your Application/System].
 
 ## 🚀 Key Features
@@ -24,3 +38,10 @@
 2. **Install Dependencies:** `[Your Installation Command]`
 3. **Configure Environment:**  Set up any required environment variables or configurations.
 4. **Run Tests:** `[Your Test Execution Command]`
+
+<br><br><br>
+
+# My blog
+
+Some my articles about technology ...
+
