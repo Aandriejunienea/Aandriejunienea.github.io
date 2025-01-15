@@ -41,7 +41,7 @@ some description
 
 <br><br><br>
 
-# My blog
+<h1>My BLOG</h1>
 
 Some my articles about technology ...
 
